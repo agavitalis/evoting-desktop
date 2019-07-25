@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVotingDesktop", "EVotingDesktop\EVotingDesktop.csproj", "{13FC3E48-2528-4191-96DC-48F20B1B5AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightSchedular", "..\..\..\..\..\Projects\C#\FlightScheduler\flightSchedular\flightSchedular.csproj", "{2E08F703-9AF4-4B4D-9B4C-0876B2CB39B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FC3E48-2528-4191-96DC-48F20B1B5AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FC3E48-2528-4191-96DC-48F20B1B5AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FC3E48-2528-4191-96DC-48F20B1B5AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FC3E48-2528-4191-96DC-48F20B1B5AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E08F703-9AF4-4B4D-9B4C-0876B2CB39B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E08F703-9AF4-4B4D-9B4C-0876B2CB39B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E08F703-9AF4-4B4D-9B4C-0876B2CB39B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E08F703-9AF4-4B4D-9B4C-0876B2CB39B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20307466-72EB-4401-8D6D-AAA8DCD37ED6}
+	EndGlobalSection
+EndGlobal
